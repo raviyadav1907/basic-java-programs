@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - lecc13",
+            "request": "launch",
+            "mainClass": "lecc13",
+            "projectName": "foundation_101_6279fd20"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - lec01",
+            "request": "launch",
+            "mainClass": "lec01",
+            "projectName": "foundation_101_6279fd20"
+        }
+    ]
+}
